@@ -5,4 +5,4 @@
 [![CodeWars](https://www.codewars.com/users/XiN-2024/badges/large)](https://www.codewars.com/users/XiN-2024)
 
 # 已刷题目
--[7 kyu]
+- [7 kyu](https://github.com/XiN-2419/XiN-CodeWars-/tree/main/7%20kyu)
